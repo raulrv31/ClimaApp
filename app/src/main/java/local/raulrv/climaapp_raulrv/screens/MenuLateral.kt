@@ -14,7 +14,7 @@ import androidx.navigation.NavController
 import androidx.navigation.NavHostController
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
-import androidx.compose.material3.MaterialTheme // ✅ Material 3
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.*
 
 /**
